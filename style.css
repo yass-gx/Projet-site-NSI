@@ -84,9 +84,9 @@ img {
     padding: 4px;
 }
 .mot {
-    color: navy;
+    color: black;
     font-weight: bold;
-    font-style: italic;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 .pied_de_page {
     background-image: url('images/fond.jpg');
